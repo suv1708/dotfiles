@@ -2,6 +2,9 @@
 
 <img src="preview.png"></img>
 
+<h5>Notificaction daemon</h5>
+<p>dunst</p>
+
 # Dependencies
 
 -bspwm <br>
