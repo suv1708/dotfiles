@@ -4,10 +4,10 @@
 
 # Dependencies
 
--bspwm
--sxhkd
--polybar
--rofi
--kitty
--zsh
--oh my zsh!
+-bspwm <br>
+-sxhkd <br>
+-polybar <br>
+-rofi <br>
+-kitty <br>
+-zsh <br>
+-oh my zsh! <br>
