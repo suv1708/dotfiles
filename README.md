@@ -11,3 +11,4 @@
 -kitty <br>
 -zsh <br>
 -oh my zsh! <br>
+-dunst
