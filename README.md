@@ -1,4 +1,4 @@
-# My Archcraft Config
+# Preview
 
 <img src="preview.png"></img>
 
