@@ -4,7 +4,7 @@
 
 <h5>Notificaction daemon</h5>
 <p>dunst</p>
-
+<img src="dunst.png"></img>
 # Dependencies
 
 -bspwm <br>
