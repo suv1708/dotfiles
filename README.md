@@ -26,6 +26,11 @@
 <p>Kitty</p>
 <img src="kittypreview.png"></img>
 
+-----------------------------------------
+
+<h5>Wallpaper</h5>
+<p>Just a wallpaper</p>
+<img src="wal3.png"></img>
 
 # Dependencies
 
