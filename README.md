@@ -5,6 +5,14 @@
 <h5>Notificaction daemon</h5>
 <p>Dunst</p>
 <img src="dunstpreview.png"></img>
+
+-----------------------------------------
+
+<h5>statusbar</h5>
+<p>Polybar</p>
+<img src="polybarpreview.png"></img>
+
+
 # Dependencies
 
 - bspwm <br>
@@ -17,7 +25,3 @@
 - dunst <br>
 - xfce4-power-manager
 
-
-<h5>statusbar</h5>
-<p>Polybar</p>
-<img src="polybarpreview.png"></img>
