@@ -22,6 +22,11 @@
 
 -----------------------------------------
 
+<h5>Terminal Emulator</h5>
+<p>Kitty</p>
+<img src="kittypreview.png"></img>
+
+
 # Dependencies
 
 - bspwm <br>
