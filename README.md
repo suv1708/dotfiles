@@ -34,13 +34,13 @@
 
 # Dependencies
 
-- bspwm <br>
-- sxhkd <br>
-- polybar <br>
-- rofi <br>
-- kity <br>
-- zsh <br>
-- oh my zsh! <br>
-- dunst <br>
-- xfce4-power-manager
+- Bspwm <br>
+- Sxhkd <br>
+- Polybar <br>
+- Rofi <br>
+- Kitty <br>
+- Zsh <br>
+- Oh-my-zsh! <br>
+- Dunst <br>
+- Xfce4-power-manager
 
