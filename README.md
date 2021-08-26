@@ -2,6 +2,8 @@
 
 <img src="preview.png"></img>
 
+-----------------------------------------
+
 <h5>Notificaction daemon</h5>
 <p>Dunst</p>
 <img src="dunstpreview.png"></img>
@@ -12,6 +14,13 @@
 <p>Polybar</p>
 <img src="polybarpreview.png"></img>
 
+-----------------------------------------
+
+<h5>App Launcher</h5>
+<p>Rofi</p>
+<img src="rofipreview.png"></img>
+
+-----------------------------------------
 
 # Dependencies
 
