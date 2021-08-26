@@ -8,7 +8,7 @@
 
 -----------------------------------------
 
-<h5>statusbar</h5>
+<h5>Statusbar</h5>
 <p>Polybar</p>
 <img src="polybarpreview.png"></img>
 
