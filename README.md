@@ -6,7 +6,7 @@
 
 <h5>Notificaction daemon</h5>
 <p>Dunst</p>
-<img src="dunstpreview.png"></img>
+<img src="https://i.imgur.com/4sgEJAB.png"></img>
 
 -----------------------------------------
 
