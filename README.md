@@ -24,7 +24,7 @@
 
 <h5>Terminal Emulator</h5>
 <p>Kitty</p>
-<img src="kittypreview.png"></img>
+<img src="https://i.imgur.com/EscujCs.png"></img>
 
 -----------------------------------------
 
