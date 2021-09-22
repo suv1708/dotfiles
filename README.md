@@ -30,7 +30,7 @@
 
 <h5>Wallpaper</h5>
 <p>Just a wallpaper</p>
-<img src="https://media.discordapp.net/attachments/635625973764849684/887487216941686854/unknown.png"></img>
+<img src="https://i.imgur.com/8yXtY8j.jpg"></img>
 
 # Dependencies
 
