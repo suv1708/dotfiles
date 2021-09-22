@@ -12,7 +12,7 @@
 
 <h5>Statusbar</h5>
 <p>Polybar</p>
-<img src="https://i.imgur.com/FvEOmgV.png"></img>
+<img src="https://i.imgur.com/aNixKMt.png"></img>
 
 -----------------------------------------
 
