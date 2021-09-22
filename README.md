@@ -1,6 +1,6 @@
 # Preview
 
-<img src="https://i.imgur.com/1lrKtww.png></img>
+<img src="https://i.imgur.com/1lrKtww.png"></img>
 
 -----------------------------------------
 
