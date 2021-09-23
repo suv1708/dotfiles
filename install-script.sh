@@ -23,7 +23,7 @@ echo -ne "\n"
 
 git clone https://github.com/Bleyom/dotfiles
 
-echo -ne "${greenColour}creating bspwm, sxhkd, kitty, backup ...\n"
+echo -ne "${greenColour}creating bspwm, sxhkd, backup ...\n"
 
 mv ~/.config/polybar/ ~/.config/polybar-backup 2>/dev/null 
 
