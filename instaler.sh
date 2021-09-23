@@ -82,6 +82,8 @@ echo -ne "\n"
 
 echo -ne "${redColor}[*] By Bleyom ..."
 
+echo -ne "\n"
+
 echo "Bye ..."
 
 
