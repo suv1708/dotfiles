@@ -27,7 +27,7 @@ echo -ne "\n"
 
 echo "Update repositories and install dependencies"
 
-echo -ne "${grayColour} Note: polybar bspwm and sxhkd are not in the official repositories, you have to compile it from source\n"
+echo -ne "${grayColour} Note: polybar bspwm and sxhkd are not in the official repositories, you have to compile it from source\n" && sleep 3
 
 sudo apt install build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev kitty
 
