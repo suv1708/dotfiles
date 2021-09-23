@@ -45,7 +45,7 @@ echo -ne "\n"
 
 mv ~/.config/sxhkd ~/.config/sxhkd-backup 2>/dev/null
 
-cp -r dotfiles/bspwm/ ~/.config/ && sleep 2
+cp -r dotfiles/sxhkd/ ~/.config/ && sleep 2
 
 echo -ne "${greenColour}[*] Sxhkd Backup Done ..."  && sleep 2
 
