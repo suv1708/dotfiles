@@ -73,7 +73,9 @@ mv ~/.config/dunst ~/.config/dunst-backup 2>/dev/null
 cp -r dotfiles/dunst/ ~/.config/ && sleep 2
 
 echo -ne "${greenColour}[*] Dunst Backup Done ..."  && sleep 2
-
+chmod +x ~/.config/bspwm/bspwmrc
+chmod +x ~/.config/polybar/launch.sh
+chmod +x ~/.config/sxhkd/sxhkdrc
 echo -ne "\n"
 
 echo -ne "${redColour}[*] Configuration loaded successfully"
