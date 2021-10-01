@@ -1,6 +1,6 @@
 # Preview
 
-<img src="https://i.imgur.com/1lrKtww.png"></img>
+<img src="https://i.imgur.com/K45fwvR.jpg"></img>
 
 -----------------------------------------
 
@@ -12,7 +12,7 @@
 
 <h5>Statusbar</h5>
 <p>Polybar</p>
-<img src="https://i.imgur.com/aNixKMt.png"></img>
+<img src="https://i.imgur.com/Gd6BmBG.png"></img>
 
 -----------------------------------------
 
@@ -24,13 +24,13 @@
 
 <h5>Terminal Emulator</h5>
 <p>Kitty</p>
-<img src="https://i.imgur.com/RsEP1VK.png"></img>
+<img src="https://i.imgur.com/saaD1YS.png"></img>
 
 -----------------------------------------
 
 <h5>Wallpaper</h5>
 <p>Just a wallpaper</p>
-<img src="https://i.imgur.com/8yXtY8j.jpg"></img>
+<img src="https://i.imgur.com/jqx2jXM.png"></img>
 
 # Dependencies
 
