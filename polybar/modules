@@ -1,0 +1,61 @@
+; POLYBAR
+
+[colors]
+foreground = ${xrdb:background:#fff}
+background =  #000
+
+; BARS
+[bar/bar]
+monitor = ${env:MONITOR:}
+enable-ipc=true
+height = 40
+width = 25%
+offset-y = 8
+offset-x = 1%
+padding = 5
+border-size = 2
+border-color = #3366CC
+fixed-center = true
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 2
+
+
+font-0=SF Pro Display:style=Regular:size=12;4
+font-1=SF Pro Display:style=Semibold:size=12;4
+font-2=Material Icons:size=13;7
+font-3=font\-logos:size=10;4
+font-4=FontAwesome5Brands:size=5;1
+font-5=IPAGothic:size=11;2
+font-6 = FontAwesome:pixelsize=10;4
+
+modules-left = bspwm
+
+; MODULES
+
+[module/bspwm]
+type = internal/bspwm
+format = <label-state>
+format-margin = 4
+index-sort = true
+
+enable-click = true
+reverse-scroll = false
+enable-scroll = true
+
+label-focused = %index%
+label-focused-underline = ${colors.foreground}
+label-focused-padding = 4
+label-focused-font = 2
+
+label-empty =
+
+label-occupied = %index%
+label-occupied-padding = 4
+
+;ws-icon-0 = 1;
+;ws-icon-1 = 2;
+;ws-icon-2 = 3;
+;ws-icon-9 = 10;
+;ws-icon-default = 
