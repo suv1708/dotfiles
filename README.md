@@ -20,7 +20,7 @@ or
 
 <h5>Notificaction daemon</h5>
 <p>Dunst</p>
-<img src="https://i.imgur.com/FCCX0gl.png"></img>
+<img src="https://i.imgur.com/eneCZD1.png"></img>
 
 -----------------------------------------
 
