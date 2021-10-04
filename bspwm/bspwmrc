@@ -17,7 +17,7 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
-~/.config/polybar/launch.sh &
+~/.config/polybar/launch-dark.sh &
 picom &
 dunst &
 xfce xfce4-power-manager &
