@@ -14,11 +14,6 @@
 <p>Polybar</p>
 <img src="https://i.imgur.com/Gd6BmBG.png"></img>
 
------------------------------------------
-
-<h5>App Launcher</h5>
-<p>Rofi</p>
-<img src="rofipreview.png"></img>
 
 -----------------------------------------
 
