@@ -25,8 +25,6 @@ yay -Sy polybar dunst bspwm sxhkd kitty
 echo -ne "${redColour} [*] Welcome ..." && sleep 1
 echo -e "${endColour}"
 
-echo -ne "${grayColour} Preview\n" && sleep 2
-echo " https://i.imgur.com/7job3z6.png"
 
 echo -ne "\n"
 
