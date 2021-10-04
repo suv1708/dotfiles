@@ -8,9 +8,9 @@
 
 > ` curl https://raw.githubusercontent.com/Bleyom/dotfiles/main/arch-installer.sh > installer.sh `
 
-`chmod +x installer.sh`
+> `chmod +x installer.sh`
 
-`./insaller.sh`
+> `./insaller.sh`
 or
 `bash installer.sh`
 or
