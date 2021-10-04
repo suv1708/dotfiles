@@ -1,36 +1,40 @@
 ##---------- Keybindings for bspwm ----------##
 
-# Terminal (alacritty)
+# Terminal 
 super + Return
 	kitty
-
-# Floating terminal
-super + shift + Return
-	kitty -f
-
-##---------- Rofi Launcher & Menus ----------##
-
-# Rofi App Launcher
-alt + F1
-	sh ~/.config/bspwm/rofi/bin/launcher
-
-# Rofi Network Menu
-super + n
-	nmd
-
-# Rofi Menus
-super + {w,m,x,r}
-	sh ~/.config/bspwm/rofi/bin/{windows,mpd,powermenu,asroot}
-
-ctrl + alt + {s,n,t}
-	sh ~/.config/bspwm/rofi/bin/{screenshot,network,themes}
-
 ##---------- Applications ----------##
 
 # Launch Apps
-super + shift + {f,w,e}
-	{pcmanfm,midori,geany}
+super + shift + d
+	discord
 
+super + shift + f
+	firefox
+
+super + shift + s
+	spotify
+
+super + shift + c
+	flameshot gui
+
+super + space
+        dmenu_run
+
+super + shift + v
+        sh -c 'XAPP_FORCE_GTKWINDOW_ICON=audio-headset firefox --class WebApp-spotifyvisualizer7051 --profile /home/bleyom/.local/share/ice/firefox/spotifyvisualizer7051 --no-remote http://nowplayi.ng/playing.php'
+
+super + shift + c 
+        nitrogen
+
+super + shift + k
+	screenkey
+
+super + shift + z
+	zathura
+
+super + shift + p
+	kitty process-killer ; exit
 ##---------- System ----------##
 
 # Take a screenshot
@@ -60,7 +64,7 @@ XF86Audio{Next,Prev,Play,Stop}
 
 # Lockscreen
 ctrl + alt + l
-    bsplock
+        betterlock -l
 
 # Reload Keybindings
 super + Escape
@@ -91,7 +95,7 @@ super + ctrl + {1-9}
 	bspc node -o 0.{1-9}
 
 # Toggle beetwen floating & tiled
-super + space
+super + shift + space
     bspc node -t "~"{floating,tiled}
 
 # Pseudo Tiled & tiled mode
