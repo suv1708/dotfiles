@@ -8,7 +8,7 @@ declare -r yellowColour="\e[0;33m\033[1m"
 declare -r purpleColour="\e[0;35m\033[1m"
 declare -r turquoiseColour="\e[0;36m\033[1m"
 declare -r grayColour="\e[0;37m\033[1m"
-# Colors By S4vitaar3
+# Colors By S4vitaar <3
 
 echo "do you wish to continue (y/n)) ?"
 read i
