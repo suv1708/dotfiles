@@ -32,7 +32,7 @@
 - Bspwm <br>
 - Sxhkd <br>
 - Polybar <br>
-- Rofi <br>
+- dmenu <br>
 - Kitty <br>
 - Zsh <br>
 - Oh-my-zsh! <br>
