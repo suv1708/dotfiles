@@ -4,6 +4,20 @@
 
 -----------------------------------------
 
+# Installation
+
+> curl https://raw.githubusercontent.com/Bleyom/dotfiles/main/arch-installer.sh > installer.sh
+
+`chmod +x installer.sh`
+
+`./insaller.sh`
+or
+`bash installer.sh`
+or
+`sh installer.sh`
+
+-----------------------------------------
+
 <h5>Notificaction daemon</h5>
 <p>Dunst</p>
 <img src="https://i.imgur.com/FCCX0gl.png"></img>
