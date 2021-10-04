@@ -33,7 +33,7 @@ or
 
 <h5>Terminal Emulator</h5>
 <p>Kitty</p>
-<img src="https://i.imgur.com/saaD1YS.png"></img>
+<img src="https://i.imgur.com/ftxWFqC.png"></img>
 
 -----------------------------------------
 
