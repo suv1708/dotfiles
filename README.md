@@ -6,7 +6,7 @@
 
 # Installation
 
-> curl https://raw.githubusercontent.com/Bleyom/dotfiles/main/arch-installer.sh > installer.sh
+> ` curl https://raw.githubusercontent.com/Bleyom/dotfiles/main/arch-installer.sh > installer.sh `
 
 `chmod +x installer.sh`
 
